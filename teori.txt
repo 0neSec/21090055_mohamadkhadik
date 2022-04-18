@@ -1,0 +1,16 @@
+algorithma greedy merupakan metode yang paling
+ populer untuk memecahkan persoaalan optimasi.
+algorithma greedy membentuk solusi langkah perlangkah. 
+Oleh karena itu,  pada setiap langkah harus dibuat 
+keputuusan yang terbaik dalam menentukan pilihan.
+pada sebuah prinsip algorthma greedy "take what you can get now"
+
+
+
+contoh
+mislaka  A =32 koin yang tersedia : 1, 5, 10, dan 25
+langkah 1 : pilih 1 buah koin 25 (total = 25)
+langkah 2 pilih 1 buh koin 5 (total = 25+5=30)
+langkah 3: pilih 2 buah koin 1(total = 25 +5 +1+1=32)
+
+ 
